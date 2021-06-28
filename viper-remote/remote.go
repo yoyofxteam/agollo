@@ -9,8 +9,8 @@ import (
 	"sync"
 
 	crypt "github.com/bketelsen/crypt/config"
-	"github.com/shima-park/agollo"
 	"github.com/spf13/viper"
+	"github.com/yoyofxteam/agollo"
 )
 
 var (
